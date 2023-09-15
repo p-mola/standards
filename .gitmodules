@@ -1,0 +1,9 @@
+[submodule "player-features"]
+	path = player-features
+	url = ./player-features/
+[submodule "proposed-features"]
+	path = proposed-features
+	url = ./proposed-features/
+[submodule "schemas"]
+	path = schemas
+	url = ./schemas/
