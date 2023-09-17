@@ -16,7 +16,7 @@ With this project:
 
 In the future this project will mostly be updated with the app developers themselves, with a panel. For now, we will test and update our data.
 
-While there is no set in stone guideline for this project, there is some _wishlist_ goals defined in our [Who are we!](https://github.com/p-mola/.github/README.md) page.
+While there is no set in stone guideline for this project, there is some _wishlist_ goals defined in our [Who are we!](https://github.com/p-mola/) page.
 
 ## Schemas
 
