@@ -1,9 +1,9 @@
 [submodule "player-features"]
 	path = player-features
-	url = ./player-features/
+	url = https://github.com/p-mola/standards-player-features
 [submodule "proposed-features"]
 	path = proposed-features
-	url = ./proposed-features/
+	url = https://github.com/p-mola/p-mola-feature-tracker
 [submodule "schemas"]
 	path = schemas
-	url = ./schemas/
+	url = https://github.com/p-mola/schemas
