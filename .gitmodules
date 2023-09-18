@@ -1,14 +1,12 @@
 [submodule "player-features"]
 	path = player-features
 	url = https://github.com/p-mola/standards-player-features
+	branch = main
 [submodule "proposed-features"]
 	path = proposed-features
 	url = https://github.com/p-mola/p-mola-feature-tracker
 	branch = main
 [submodule "schemas"]
 	path = schemas
+	branch = main
 	url = https://github.com/p-mola/schemas
-[submodule "schemas/"]
-	branch = main
-[submodule "player-features/"]
-	branch = main
